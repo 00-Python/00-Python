@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @00-Python,
+- 👋 Hi, I’m @00-Python (Joe),
 - 👀 I’m interested in many differets aspects of python & c++, cyber-security and bug bounty and Artificial Intelligence.
 - 🌱 I’m currently learning intermediate to advanced python(2+ & 3+) and begginer level c++, I am definitely more experienced in pyhton than c++ but I am eager to learn as much of the two as I can!
 - 💞️ I’m looking to collaborate on any project that can help me progres my programming learning path and gain more knowledge, I am very motivated and pick up very quickly on most things.
