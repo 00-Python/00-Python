@@ -2,7 +2,7 @@
 - 👀 I’m interested in many differets aspects of python, namely gui development, cyber-security, web development and bug bounty and Artificial Intelligence.
 - 🌱 I’m currently learning intermediate to advanced python(2+ & 3+) and begginer level c++, I am definitely more experienced in pyhton than c++ but I am eager to learn as much of the two as I can!
 - 💞️ I’m looking to collaborate on any project that can help me progres my programming learning path and gain more knowledge, I am very motivated and pick up very quickly on most things.
-- 📫 How to reach me ...
+- 📫 Reach me on Twitter: @zerowebster
 
 <!---
 00zerozero-dev/00zerozero-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
