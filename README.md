@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joe (@00-Python)   
-Please enjoy my simple python projects if they are completed :) 
+Please enjoy my simple projects if they are completed :) 
 
 <p float="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00-Python&theme=transparent" />
