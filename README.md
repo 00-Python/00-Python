@@ -1,16 +1,54 @@
-- 👋 Hi, I’m Joe (@00-Python)   
-Please enjoy my simple projects if they are completed :) 
 
-<p float="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00-Python&theme=transparent" />
+# Hi, I'm Joe 👋
+Welcome to my GitHub profile! I'm a passionate software developer with a focus on backend development, AI, and machine learning. I'm constantly exploring new technologies and enhancing my skills through various projects.
 
-  <img src="https://github-readme-stats.vercel.app/api?username=00-Python&show_icons=true&theme=transparent&hide=prs&count_private=true" /> 
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00-Python&theme=transparent" />   
+
+## Skills
+
+- Backend Development: Flask, FastAPI
+- Frontend: HTML, CSS, SASS/SCSS, Bootstrap, JavaScript, jQuery
+- Systems Programming: C++
+- AI & Machine Learning: Scikit-learn, Keras, TensorFlow, PyTorch
+- Data Science: Pandas, Matplotlib, Plotly
+- Version Control: Git, GitHub
   
-![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,html,css,bootstrap,javascript,arduino)
-
-![Metrics](https://metrics.lecoq.io/00-Python?template=classic&base.indepth=true&base.hireable=true&repositories.batch=100&achievements=1&lines=1&notable=1&stars=1&habits=1&activity=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=5&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Europe%2FLondon)
+![My Skills](https://skillicons.dev/icons?i=py,cpp,bash,flask,fastapi,html,sass,css,bootstrap,javascript,jquery,linux,git,github,vscode)
 
 
+## Projects
+
+<img src="https://github-readme-stats.vercel.app/api?username=00-Python&show_icons=true&theme=transparent&hide=prs&count_private=true" /> 
+
+Here are some of my repositories:
+- Web Development:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=Flask-Authentication&theme=dark)](https://github.com/00-Python/Flask-Authentication)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=Flask-Analytics&theme=dark)](https://github.com/00-Python/Flask-Analytics)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=Simple-Flask-API-with-Authentication&theme=dark)](https://github.com/00-Python/Simple-Flask-API-with-Authentication)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=FastAPI-Camera-Api&theme=dark)](https://github.com/00-Python/FastAPI-Camera-Api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=LAN-IP-Camera-Webserver&theme=dark)](https://github.com/00-Python/LAN-IP-Camera-Webserver)
+
+- Open AI Prompt Engineering:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=Ai-Debug&theme=dark)](https://github.com/00-Python/Ai-Debug) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=AI-Email-Standardizer&theme=dark)](https://github.com/00-Python/AI-Email-Standardizer) 
+
+- Web Crawlers & Scrapers:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=Web-Crawler&theme=dark)](https://github.com/00-Python/Web-Crawler)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=PDFDrive-API-unofficial&theme=dark)](https://github.com/00-Python/PDFDrive-API-unofficial)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=Ryanair-Scraper&theme=dark)](https://github.com/00-Python/Ryanair-Scraper)
+
+- Trading Tools:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=Stock-Market-Analysis&theme=dark)](https://github.com/00-Python/Stock-Market-Analysis)
+
+- Miscellaneous:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=Bash-Backup-and-Encrypt&theme=dark)](https://github.com/00-Python/Bash-Backup-and-Encrypt)
+
+  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=00-Python)
+
 
