@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 
 - Backend Development: Flask, FastAPI
 - Frontend: HTML, CSS, SASS/SCSS, Bootstrap, JavaScript, jQuery
-- Systems Programming: C++
+- Systems Programming: C++(Beginner)
 - AI & Machine Learning: Scikit-learn, Keras, TensorFlow, PyTorch
 - Data Science: Pandas, Matplotlib, Plotly
 - Version Control: Git, GitHub
