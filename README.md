@@ -1,6 +1,6 @@
 
 # Hi, I'm Joe 👋
-Welcome to my GitHub profile! I'm a passionate software developer with a focus on backend development, AI, and machine learning. I'm constantly exploring new technologies and enhancing my skills through various projects.
+Welcome to my GitHub profile! I'm a passionate software developer with a focus on cyber security, Full Stack development, AI, and machine learning. I'm constantly exploring new technologies and enhancing my skills through various projects.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00-Python&theme=transparent" />   
 
