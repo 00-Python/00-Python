@@ -28,6 +28,7 @@ Here are some of my repositories:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=Simple-Flask-API-with-Authentication&theme=dark)](https://github.com/00-Python/Simple-Flask-API-with-Authentication)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=FastAPI-Camera-Api&theme=dark)](https://github.com/00-Python/FastAPI-Camera-Api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=LAN-IP-Camera-Webserver&theme=dark)](https://github.com/00-Python/LAN-IP-Camera-Webserver)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=jQuery-3.7.1-Cheatsheet&theme=dark)](https://github.com/00-Python/jQuery-3.7.1-Cheatsheet)
 
 - Open AI Prompt Engineering:
 
