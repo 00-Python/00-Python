@@ -1,71 +1,178 @@
+<div align="center">
+
 # Joseph Webster
 
-**Systems & Applications Engineer** — Security, Infrastructure, Automation
+### Systems & Applications Engineer
+
+Security &nbsp;·&nbsp; Infrastructure &nbsp;·&nbsp; Automation &nbsp;·&nbsp; Platform Engineering
+
+<br>
+
+[![X](https://img.shields.io/badge/@zerowebster-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/zerowebster)
+[![GitHub](https://img.shields.io/badge/github-00--Python-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/00-Python)
+
+</div>
 
 ---
 
-Infrastructure and security engineer at **B4RN**, the UK's largest community-owned broadband network. I build platforms that harden, monitor, and defend production environments — from bare metal through to the API layer. My work spans vulnerability management, infrastructure automation, backend engineering, and security tooling.
+> **Infrastructure and security engineer operating at ISP scale.** I build platforms that harden, monitor, and defend production environments — from bare metal through to the API layer. Currently engineering security operations at B4RN, the UK's largest community-owned broadband network.
 
 ---
 
-## Featured Work
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### [FastAPI — Role & Permissions System](https://github.com/00-Python/FastAPI-Role-and-Permissions)
-Production-grade authentication and authorization framework for FastAPI. JWT-based auth with a comprehensive role-based access control system. The most-starred project on this profile — used by developers building secure REST APIs.
+
+Production-grade JWT authentication and RBAC framework for FastAPI. Comprehensive role and permission management. The most-starred project on this profile.
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 
 ### [HN Security Report](https://github.com/00-Python/hn-security-report)
-CLI tool that scans Hacker News for security vulnerabilities, CVEs, exploits, and breaches across any timeframe. Generates terminal, markdown, and JSON reports. Zero dependencies, concurrent, cached.
+
+CLI threat intelligence tool. Scans Hacker News for CVEs, exploits, and breaches across any timeframe. Terminal, markdown, and JSON output. Zero dependencies, concurrent, cached.
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-000?style=flat-square&logo=gnometerminal&logoColor=white)
+![Security](https://img.shields.io/badge/Security-000?style=flat-square&logo=shield&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### [AI-Debug](https://github.com/00-Python/AI-Debug)
-Project-aware coding assistant that leverages OpenAI and Google APIs for context-aware debugging. Understands your entire codebase to provide intelligent fixes and suggestions.
+
+Project-aware coding assistant using OpenAI and Google APIs. Analyses your entire codebase to provide context-aware debugging, fixes, and refactoring suggestions.
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 
 ### [Hexagonal Permutation Cipher](https://github.com/00-Python/Hexagonal-Permutation-Cipher)
-Novel cryptographic scheme combining hexagonal grid permutation with modular arithmetic. An exploration of unconventional encryption design.
+
+Novel encryption scheme combining hexagonal grid permutation with modular arithmetic. An original cryptographic design exploring unconventional approaches to symmetric encryption.
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-000?style=flat-square&logo=letsencrypt&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### [Web Crawler](https://github.com/00-Python/Web-Crawler)
-Recursive domain classifier and site crawler that maps internal and external link topology. Classifies domains, crawls internal paths, and persists structured results.
+
+Recursive domain classifier and link topology mapper. Crawls target sites, classifies internal and external domains, and persists structured crawl results.
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-000?style=flat-square&logo=w3c&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 
 ### [Stock Market Analysis CLI](https://github.com/00-Python/Stock-Market-Analysis)
-Terminal-based stock price checker with candlestick charting. Real-time market data and visualisations from the command line.
+
+Terminal-based market data and charting tool. Real-time stock prices with candlestick plotting — from the command line.
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-000?style=flat-square&logo=gnometerminal&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Additional Projects
+## More Projects
 
-| Project | Description |
-|---------|-------------|
-| [XSSMap](https://github.com/00-Python/xssMap) | Cross-site scripting detection and mapping tool |
-| [Scammerzz](https://github.com/00-Python/Scammerzz) | Threat intelligence CLI for the ScamSearch API |
-| [Docker + Nginx Multi-App](https://github.com/00-Python/multi-flask-docker-nginx-deployment) | Containerised Flask deployment behind Nginx reverse proxy |
-| [i3 Workspace Manager](https://github.com/00-Python/i3-workspace-manager) | Linux desktop session persistence for the i3 window manager |
-| [Bash Backup & Encrypt](https://github.com/00-Python/Bash-Backup-and-Encrypt) | Encrypted remote backups over SSH |
-| [Trading 212 Bot](https://github.com/00-Python/Trading-212-Automated-Trading-Bot) | Automated trading engine for the Trading 212 platform |
+| Security | Systems & Automation |
+|----------|---------------------|
+| [**XSSMap**](https://github.com/00-Python/xssMap) — Cross-site scripting detection and mapping | [**Docker + Nginx Deployment**](https://github.com/00-Python/multi-flask-docker-nginx-deployment) — Multi-app container orchestration |
+| [**Scammerzz**](https://github.com/00-Python/Scammerzz) — Threat intelligence CLI for ScamSearch API | [**i3 Workspace Manager**](https://github.com/00-Python/i3-workspace-manager) — Linux desktop session persistence |
+| [**Bash Backup & Encrypt**](https://github.com/00-Python/Bash-Backup-and-Encrypt) — Encrypted remote backups over SSH | [**Trading 212 Bot**](https://github.com/00-Python/Trading-212-Automated-Trading-Bot) — Automated trading engine |
 
 ---
 
 ## Technical Capabilities
 
-**Languages** — Python, Go, TypeScript, Rust, Bash, C, C++, SQL
+**Programming Languages**
 
-**Backend** — FastAPI, Flask, Next.js, PostgreSQL, SQLAlchemy, Redis
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Infrastructure** — Docker, Nginx, Linux, Puppet, VMware vSphere, Juniper
+**Backend & APIs**
 
-**Security** — Vulnerability management, CVE tracking, threat intelligence, network hardening, XSS detection, cryptography
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**AI / ML** — LLM integration, agent architecture, OpenAI & Google APIs, PyTorch, Scikit-learn
+**Infrastructure & Operations**
 
-**Workflow** — Git, GitHub Actions, CI/CD, infrastructure as code
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=flat-square&logo=puppet&logoColor=black)
+![VMware vSphere](https://img.shields.io/badge/VMware_vSphere-607078?style=flat-square&logo=vmware&logoColor=white)
+![Juniper](https://img.shields.io/badge/Juniper-84B135?style=flat-square&logo=junipernetworks&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-000?style=flat-square&logo=cisco&logoColor=white)
+
+**Security**
+
+![Vulnerability Management](https://img.shields.io/badge/Vulnerability_Mgmt-000?style=flat-square&logo=shield&logoColor=white)
+![Threat Intelligence](https://img.shields.io/badge/Threat_Intel-000?style=flat-square&logo=securityscorecard&logoColor=white)
+![CVE Tracking](https://img.shields.io/badge/CVE_Tracking-000?style=flat-square&logo=nist&logoColor=white)
+![Network Hardening](https://img.shields.io/badge/Network_Hardening-000?style=flat-square&logo=gnometerminal&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-000?style=flat-square&logo=letsencrypt&logoColor=white)
+
+**AI & Machine Learning**
+
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-000?style=flat-square&logo=openai&logoColor=white)
+![Agent Architecture](https://img.shields.io/badge/Agent_Architecture-000?style=flat-square&logo=robotframework&logoColor=white)
+![DSPy](https://img.shields.io/badge/DSPy-000?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 ---
 
 ## Current Focus
 
-- Building security operations tooling at B4RN — vulnerability management, operational intelligence, automated triage
-- Deepening expertise in Go for systems and network engineering
-- Advancing offensive security and red team capabilities
-- Shipping security-focused open source tools
+Building security operations tooling at B4RN — vulnerability management, operational intelligence, and automated triage at ISP scale. Deepening expertise in Go for systems and network engineering. Advancing offensive security and red team capabilities.
 
 ---
 
-*Available at [github.com/00-Python](https://github.com/00-Python) · [@zerowebster](https://twitter.com/zerowebster)*
+<div align="center">
+
+**[github.com/00-Python](https://github.com/00-Python)** &nbsp;·&nbsp; **[@zerowebster](https://twitter.com/zerowebster)**
+
+</div>
