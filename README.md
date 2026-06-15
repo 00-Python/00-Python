@@ -1,90 +1,71 @@
-<div align="center">
+# Joseph Webster
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=Joseph+Webster;Systems+%26+Applications+Engineer;Security+%C2%B7+Infrastructure+%C2%B7+Automation" alt="Joseph Webster" />
-
-<a href="https://twitter.com/zerowebster"><img src="https://img.shields.io/badge/@zerowebster-000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://github.com/00-Python"><img src="https://img.shields.io/github/followers/00-Python?style=for-the-badge&logo=github&label=follow&color=181717" /></a>
-
-</div>
+**Systems & Applications Engineer** — Security, Infrastructure, Automation
 
 ---
 
-### About
-
-Systems and applications engineer operating at the intersection of infrastructure, security, and automation. I build platforms that harden, monitor, and defend production environments — from bare metal through to API layer.
-
-Currently engineering security operations at **B4RN**, the UK's largest community-owned broadband network.
+Infrastructure and security engineer at **B4RN**, the UK's largest community-owned broadband network. I build platforms that harden, monitor, and defend production environments — from bare metal through to the API layer. My work spans vulnerability management, infrastructure automation, backend engineering, and security tooling.
 
 ---
 
-### Featured Work
+## Featured Work
 
-<div align="center">
-  <a href="https://github.com/00-Python/FastAPI-Role-and-Permissions">
-    <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=FastAPI-Role-and-Permissions&theme=github_dark&description_lines_count=2" />
-  </a>
-  <a href="https://github.com/00-Python/hn-security-report">
-    <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=hn-security-report&theme=github_dark&description_lines_count=2" />
-  </a>
-  <br>
-  <a href="https://github.com/00-Python/AI-Debug">
-    <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=AI-Debug&theme=github_dark&description_lines_count=2" />
-  </a>
-  <a href="https://github.com/00-Python/Hexagonal-Permutation-Cipher">
-    <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=Hexagonal-Permutation-Cipher&theme=github_dark&description_lines_count=2" />
-  </a>
-  <br>
-  <a href="https://github.com/00-Python/Web-Crawler">
-    <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=Web-Crawler&theme=github_dark&description_lines_count=2" />
-  </a>
-  <a href="https://github.com/00-Python/Stock-Market-Analysis">
-    <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=Stock-Market-Analysis&theme=github_dark&description_lines_count=2" />
-  </a>
-</div>
+### [FastAPI — Role & Permissions System](https://github.com/00-Python/FastAPI-Role-and-Permissions)
+Production-grade authentication and authorization framework for FastAPI. JWT-based auth with a comprehensive role-based access control system. The most-starred project on this profile — used by developers building secure REST APIs.
 
-<br>
+### [HN Security Report](https://github.com/00-Python/hn-security-report)
+CLI tool that scans Hacker News for security vulnerabilities, CVEs, exploits, and breaches across any timeframe. Generates terminal, markdown, and JSON reports. Zero dependencies, concurrent, cached.
 
-| Security | Systems & Networks | Tools & Automation |
-|----------|-------------------|---------------------|
-| [XSSMap](https://github.com/00-Python/xssMap) — XSS detection & mapping | [Docker + Nginx Deploy](https://github.com/00-Python/multi-flask-docker-nginx-deployment) — Multi-app container orchestration | [Pirate Bay Scraper](https://github.com/00-Python/Pirate-Bay-Scraper) — Async torrent search |
-| [Scammerzz](https://github.com/00-Python/Scammerzz) — Threat intel CLI for ScamSearch | [i3 Workspace Manager](https://github.com/00-Python/i3-workspace-manager) — Linux desktop session persistence | [Stock Market CLI](https://github.com/00-Python/Stock-Market-Analysis) — Real-time market data & charts |
-| [Bash Backup & Encrypt](https://github.com/00-Python/Bash-Backup-and-Encrypt) — Encrypted remote backups over SSH | [Ryanair Scraper](https://github.com/00-Python/Ryanair-Scraper) — Flight data aggregation | [Trading 212 Bot](https://github.com/00-Python/Trading-212-Automated-Trading-Bot) — Automated trading engine |
+### [AI-Debug](https://github.com/00-Python/AI-Debug)
+Project-aware coding assistant that leverages OpenAI and Google APIs for context-aware debugging. Understands your entire codebase to provide intelligent fixes and suggestions.
+
+### [Hexagonal Permutation Cipher](https://github.com/00-Python/Hexagonal-Permutation-Cipher)
+Novel cryptographic scheme combining hexagonal grid permutation with modular arithmetic. An exploration of unconventional encryption design.
+
+### [Web Crawler](https://github.com/00-Python/Web-Crawler)
+Recursive domain classifier and site crawler that maps internal and external link topology. Classifies domains, crawls internal paths, and persists structured results.
+
+### [Stock Market Analysis CLI](https://github.com/00-Python/Stock-Market-Analysis)
+Terminal-based stock price checker with candlestick charting. Real-time market data and visualisations from the command line.
 
 ---
 
-### Capabilities
+## Additional Projects
 
-<div align="center">
-
-| Domain | Stack |
-|--------|-------|
-| **Languages** | Python &nbsp;·&nbsp; Go &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Rust &nbsp;·&nbsp; Bash &nbsp;·&nbsp; C/C++ &nbsp;·&nbsp; SQL |
-| **Backend** | FastAPI &nbsp;·&nbsp; Flask &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; SQLAlchemy &nbsp;·&nbsp; Redis |
-| **Infrastructure** | Docker &nbsp;·&nbsp; Nginx &nbsp;·&nbsp; Linux &nbsp;·&nbsp; Puppet &nbsp;·&nbsp; VMware vSphere &nbsp;·&nbsp; Juniper |
-| **Security** | Vulnerability Management &nbsp;·&nbsp; CVE Tracking &nbsp;·&nbsp; Threat Intelligence &nbsp;·&nbsp; Network Hardening |
-| **AI / ML** | LLM Integration &nbsp;·&nbsp; Agent Architecture &nbsp;·&nbsp; OpenAI & Google APIs &nbsp;·&nbsp; PyTorch |
-| **Workflow** | Git &nbsp;·&nbsp; GitHub Actions &nbsp;·&nbsp; CI/CD &nbsp;·&nbsp; Infrastructure as Code |
-
-</div>
+| Project | Description |
+|---------|-------------|
+| [XSSMap](https://github.com/00-Python/xssMap) | Cross-site scripting detection and mapping tool |
+| [Scammerzz](https://github.com/00-Python/Scammerzz) | Threat intelligence CLI for the ScamSearch API |
+| [Docker + Nginx Multi-App](https://github.com/00-Python/multi-flask-docker-nginx-deployment) | Containerised Flask deployment behind Nginx reverse proxy |
+| [i3 Workspace Manager](https://github.com/00-Python/i3-workspace-manager) | Linux desktop session persistence for the i3 window manager |
+| [Bash Backup & Encrypt](https://github.com/00-Python/Bash-Backup-and-Encrypt) | Encrypted remote backups over SSH |
+| [Trading 212 Bot](https://github.com/00-Python/Trading-212-Automated-Trading-Bot) | Automated trading engine for the Trading 212 platform |
 
 ---
 
-### Building Now
+## Technical Capabilities
 
-- **Security operations platform** — vulnerability management, operational intelligence, automated triage
-- Deepening **Go** for systems and network tooling
-- Advancing in **offensive security** and **red team** capabilities
+**Languages** — Python, Go, TypeScript, Rust, Bash, C, C++, SQL
+
+**Backend** — FastAPI, Flask, Next.js, PostgreSQL, SQLAlchemy, Redis
+
+**Infrastructure** — Docker, Nginx, Linux, Puppet, VMware vSphere, Juniper
+
+**Security** — Vulnerability management, CVE tracking, threat intelligence, network hardening, XSS detection, cryptography
+
+**AI / ML** — LLM integration, agent architecture, OpenAI & Google APIs, PyTorch, Scikit-learn
+
+**Workflow** — Git, GitHub Actions, CI/CD, infrastructure as code
+
+---
+
+## Current Focus
+
+- Building security operations tooling at B4RN — vulnerability management, operational intelligence, automated triage
+- Deepening expertise in Go for systems and network engineering
+- Advancing offensive security and red team capabilities
 - Shipping security-focused open source tools
 
 ---
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=00-Python&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide=prs&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00-Python&theme=github_dark&hide_border=true&layout=compact&langs_count=6&hide=html,css,scss" />
-</div>
-
----
-
-<div align="center">
-  <sub>always building. security-first. infrastructure as craft.</sub>
-</div>
+*Available at [github.com/00-Python](https://github.com/00-Python) · [@zerowebster](https://twitter.com/zerowebster)*
