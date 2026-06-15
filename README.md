@@ -1,85 +1,87 @@
-# Hi, I'm Joe 👋
-Welcome to my GitHub profile! I'm a passionate software developer with a focus on Full Stack development. I'm constantly exploring new technologies and enhancing my skills through various projects.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00-Python&theme=transparent" />   
+<h1 align="center">Joseph Webster</h1>
 
-## Skills
+<p align="center">
+  <b>Systems & Applications Engineer at <a href="https://b4rn.org.uk">B4RN</a></b> — the UK's fastest rural broadband network<br>
+  <sub>Security · Infrastructure · Automation · Platform Engineering</sub>
+</p>
 
-- Backend Development: Flask, FastAPI
-- Frontend: HTML, CSS, SASS/SCSS, Bootstrap, JavaScript, jQuery
-- Systems Programming: C++(Beginner)
-- AI & Machine Learning: Scikit-learn, Keras, TensorFlow, PyTorch
-- Data Science: Pandas, Matplotlib, Plotly
-- Version Control: Git, GitHub
-- ... ... ...
-  
-![My Skills](https://skillicons.dev/icons?i=py,cpp,bash,flask,fastapi,html,sass,css,bootstrap,javascript,jquery,linux,git,github,vscode)
+<p align="center">
+  <a href="https://twitter.com/zerowebster"><img src="https://img.shields.io/badge/X-@zerowebster-000?style=flat&logo=x" alt="X"></a>
+  <a href="https://github.com/00-Python"><img src="https://img.shields.io/badge/repos-69-181717?style=flat&logo=github" alt="Repos"></a>
+  <a href="https://github.com/00-Python?tab=followers"><img src="https://img.shields.io/badge/followers-33-181717?style=flat&logo=github" alt="Followers"></a>
+</p>
 
-## Projects
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=00-Python&show_icons=true&theme=transparent&hide=prs&count_private=true" /> 
+Infrastructure and security engineer building operational platforms that make a difference. Currently building the security operations tooling at B4RN — vulnerability management, infrastructure hardening, and automation at ISP scale. 69 public repos, 97 stars, 26 forks across a decade of shipping code. I build tools, break things (ethically), and automate everything that moves.
 
-Here are some of my repositories:
+### What I Do
 
-### Web Development
+- **Security Platform Engineering** — vulnerability scanners, threat intelligence tooling, CVE tracking, offensive security tooling
+- **Infrastructure & Automation** — Docker, Linux systems, networking at ISP scale, Puppet, monitoring, CI/CD
+- **Backend & API Development** — FastAPI, Flask, Go services, PostgreSQL, REST APIs, JWT auth, RBAC
+- **AI & Agentic Systems** — LLM-powered tools, coding assistants, autonomous agent infrastructure
+- **Systems Programming** — Rust, C, C++ — kernels, ciphers, HTTP servers from scratch
 
-<table>
-  <tr>
-    <td><a href="https://github.com/00-Python/FastAPI-Role-and-Permissions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=FastAPI-Role-and-Permissions&theme=dark" /></a></td>
-    <td><a href="https://github.com/00-Python/Flask-Authentication"><img src="https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=Flask-Authentication&theme=dark" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/00-Python/Flask-Analytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=Flask-Analytics&theme=dark" /></a></td>
-    <td><a href="https://github.com/00-Python/Simple-Flask-API-with-Authentication"><img src="https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=Simple-Flask-API-with-Authentication&theme=dark" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/00-Python/FastAPI-Camera-Api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=FastAPI-Camera-Api&theme=dark" /></a></td>
-    <td><a href="https://github.com/00-Python/LAN-IP-Camera-Webserver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=LAN-IP-Camera-Webserver&theme=dark" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/00-Python/jQuery-3.7.1-Cheatsheet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=jQuery-3.7.1-Cheatsheet&theme=dark" /></a></td>
-    <td></td>
-  </tr>
-</table>
+---
 
-### Open AI Prompt Engineering
+### Featured Projects
 
-<table>
-  <tr>
-    <td><a href="https://github.com/00-Python/Ai-Debug"><img src="https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=Ai-Debug&theme=dark" /></a></td>
-    <td><a href="https://github.com/00-Python/AI-Email-Standardizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=AI-Email-Standardizer&theme=dark" /></a></td>
-  </tr>
-</table>
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [**FastAPI Role & Permissions**](https://github.com/00-Python/FastAPI-Role-and-Permissions) | Production-ready FastAPI auth with JWT + comprehensive RBAC system | ⭐ 48 |
+| [**HN Security Report**](https://github.com/00-Python/hn-security-report) | Scan Hacker News for CVEs, exploits, breaches — concurrent, zero-deps, cached | ⭐ new |
+| [**AI-Debug**](https://github.com/00-Python/AI-Debug) | Project-aware coding assistant using OpenAI & Google APIs — context-aware debugging | ⭐ 15 |
+| [**Web Crawler**](https://github.com/00-Python/Web-Crawler) | Recursive domain classifier and site crawler — maps internal/external link topology | ⭐ 3 |
+| [**Hexagonal Permutation Cipher**](https://github.com/00-Python/Hexagonal-Permutation-Cipher) | Novel encryption scheme combining hexagonal grid permutation with modular arithmetic | ⭐ 3 |
+| [**Pirate Bay Scraper**](https://github.com/00-Python/Pirate-Bay-Scraper) | Torrent search CLI — filenames, magnets, seeds, leechers | ⭐ 3 |
+| [**Stock Market Analysis**](https://github.com/00-Python/Stock-Market-Analysis) | CLI stock price checker with candlestick plotting | ⭐ 5 |
+| [**XSSMap**](https://github.com/00-Python/xssMap) | Cross-site scripting detection and mapping tool | ⭐ — |
+| [**Multi-Flask Docker + Nginx**](https://github.com/00-Python/multi-flask-docker-nginx-deployment) | Docker Compose multi-app Flask deployment behind Nginx reverse proxy | ⭐ — |
+| [**i3 Workspace Manager**](https://github.com/00-Python/i3-workspace-manager) | Save/restore i3 window manager workspaces and application layouts | ⭐ — |
 
-### Web Crawlers & Scrapers
+---
 
-<table>
-  <tr>
-    <td><a href="https://github.com/00-Python/Web-Crawler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=Web-Crawler&theme=dark" /></a></td>
-    <td><a href="https://github.com/00-Python/PDFDrive-API-unofficial"><img src="https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=PDFDrive-API-unofficial&theme=dark" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/00-Python/Ryanair-Scraper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=Ryanair-Scraper&theme=dark" /></a></td>
-    <td></td>
-  </tr>
-</table>
+### Tech Stack
 
-### Trading Tools
+```
+Languages:    Python  •  Go  •  TypeScript  •  Rust  •  Bash  •  C/C++  •  SQL
 
-<table>
-  <tr>
-    <td><a href="https://github.com/00-Python/Stock-Market-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=Stock-Market-Analysis&theme=dark" /></a></td>
-    <td></td>
-  </tr>
-</table>
+Backend:      FastAPI  •  Flask  •  Next.js  •  PostgreSQL  •  SQLAlchemy  •  Redis
 
-### Miscellaneous
+Infra/Ops:    Docker  •  Nginx  •  Linux  •  Puppet  •  VMware vSphere  •  Juniper
 
-<table>
-  <tr>
-    <td><a href="https://github.com/00-Python/Bash-Backup-and-Encrypt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=Bash-Backup-and-Encrypt&theme=dark" /></a></td>
-    <td></td>
-  </tr>
-</table>
+Security:     Vulnerability Mgmt  •  CVE Tracking  •  Threat Intel  •  Nuclei
+              XSS Detection  •  Cryptography  •  Network Hardening  •  Pentesting
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=00-Python)
+AI/ML:        LLM Integration  •  Agent Architecture  •  OpenAI API  •  DSPy
+              Scikit-learn  •  TensorFlow  •  PyTorch  •  Pandas
+
+Tools:        Git  •  GitHub Actions  •  VS Code  •  Obsidian  •  tmux  •  i3
+```
+
+---
+
+### Currently
+
+- 🔭 Building the **B4RN Security Platform** — vulnerability management, operational intelligence, and automated triage for an ISP serving 15,000+ rural properties
+- 🌱 Deepening expertise in **Go**, **offensive security**, and **autonomous agent architecture**
+- 🧠 Operating as an **AI-native engineer** — multi-agent workflows, cognitive infrastructure, Hermes
+- 🏗️ Migrating Puppet infrastructure, deploying Cockpit fleet monitoring, hardening 70+ server estate
+
+---
+
+### Career
+
+| When | What |
+|------|------|
+| **2026–present** | Systems & Applications Engineer — **B4RN** (ISP, Lancashire/Cumbria/Yorkshire) |
+| **2024–2026** | Freelance web development & infrastructure consulting |
+| **2014–present** | Shipping open source on GitHub — 69 repos, 10+ years of code |
+
+---
+
+<p align="center">
+  <sub>Always building. Security-first. Infrastructure as craft.</sub>
+</p>
