@@ -1,87 +1,126 @@
+<div align="center">
 
-<h1 align="center">Joseph Webster</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%7E%24+whoami;Joseph+Webster;Systems+%7C+Security+%7C+Infrastructure" alt="typed" />
 
-<p align="center">
-  <b>Systems & Applications Engineer at <a href="https://b4rn.org.uk">B4RN</a></b> — the UK's fastest rural broadband network<br>
-  <sub>Security · Infrastructure · Automation · Platform Engineering</sub>
+<p>
+  <b>Systems & Applications Engineer</b><br>
+  <sub><i>Security · Infrastructure · Automation · Platform Engineering</i></sub>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/zerowebster"><img src="https://img.shields.io/badge/X-@zerowebster-000?style=flat&logo=x" alt="X"></a>
-  <a href="https://github.com/00-Python"><img src="https://img.shields.io/badge/repos-69-181717?style=flat&logo=github" alt="Repos"></a>
-  <a href="https://github.com/00-Python?tab=followers"><img src="https://img.shields.io/badge/followers-33-181717?style=flat&logo=github" alt="Followers"></a>
-</p>
+<a href="https://twitter.com/zerowebster"><img src="https://img.shields.io/badge/@zerowebster-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://github.com/00-Python"><img src="https://img.shields.io/github/followers/00-Python?style=for-the-badge&logo=github&label=followers&color=181717" /></a>
+<a href="https://github.com/00-Python?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2F00-Python&query=%24.public_repos&style=for-the-badge&logo=github&label=repos&color=181717" /></a>
+
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
+<img src="https://img.shields.io/badge/Juniper-84B135?style=flat-square&logo=junipernetworks&logoColor=white" />
+
+</div>
 
 ---
 
-Infrastructure and security engineer building operational platforms that make a difference. Currently building the security operations tooling at B4RN — vulnerability management, infrastructure hardening, and automation at ISP scale. 69 public repos, 97 stars, 26 forks across a decade of shipping code. I build tools, break things (ethically), and automate everything that moves.
+```console
+$ cat /etc/motd
 
-### What I Do
+  Infrastructure & security engineer building operational platforms at ISP scale.
+  Working across the full stack — from bare metal and network infrastructure
+  through APIs, automation, and security tooling.
 
-- **Security Platform Engineering** — vulnerability scanners, threat intelligence tooling, CVE tracking, offensive security tooling
-- **Infrastructure & Automation** — Docker, Linux systems, networking at ISP scale, Puppet, monitoring, CI/CD
-- **Backend & API Development** — FastAPI, Flask, Go services, PostgreSQL, REST APIs, JWT auth, RBAC
-- **AI & Agentic Systems** — LLM-powered tools, coding assistants, autonomous agent infrastructure
-- **Systems Programming** — Rust, C, C++ — kernels, ciphers, HTTP servers from scratch
-
----
-
-### Featured Projects
-
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [**FastAPI Role & Permissions**](https://github.com/00-Python/FastAPI-Role-and-Permissions) | Production-ready FastAPI auth with JWT + comprehensive RBAC system | ⭐ 48 |
-| [**HN Security Report**](https://github.com/00-Python/hn-security-report) | Scan Hacker News for CVEs, exploits, breaches — concurrent, zero-deps, cached | ⭐ new |
-| [**AI-Debug**](https://github.com/00-Python/AI-Debug) | Project-aware coding assistant using OpenAI & Google APIs — context-aware debugging | ⭐ 15 |
-| [**Web Crawler**](https://github.com/00-Python/Web-Crawler) | Recursive domain classifier and site crawler — maps internal/external link topology | ⭐ 3 |
-| [**Hexagonal Permutation Cipher**](https://github.com/00-Python/Hexagonal-Permutation-Cipher) | Novel encryption scheme combining hexagonal grid permutation with modular arithmetic | ⭐ 3 |
-| [**Pirate Bay Scraper**](https://github.com/00-Python/Pirate-Bay-Scraper) | Torrent search CLI — filenames, magnets, seeds, leechers | ⭐ 3 |
-| [**Stock Market Analysis**](https://github.com/00-Python/Stock-Market-Analysis) | CLI stock price checker with candlestick plotting | ⭐ 5 |
-| [**XSSMap**](https://github.com/00-Python/xssMap) | Cross-site scripting detection and mapping tool | ⭐ — |
-| [**Multi-Flask Docker + Nginx**](https://github.com/00-Python/multi-flask-docker-nginx-deployment) | Docker Compose multi-app Flask deployment behind Nginx reverse proxy | ⭐ — |
-| [**i3 Workspace Manager**](https://github.com/00-Python/i3-workspace-manager) | Save/restore i3 window manager workspaces and application layouts | ⭐ — |
-
----
-
-### Tech Stack
-
-```
-Languages:    Python  •  Go  •  TypeScript  •  Rust  •  Bash  •  C/C++  •  SQL
-
-Backend:      FastAPI  •  Flask  •  Next.js  •  PostgreSQL  •  SQLAlchemy  •  Redis
-
-Infra/Ops:    Docker  •  Nginx  •  Linux  •  Puppet  •  VMware vSphere  •  Juniper
-
-Security:     Vulnerability Mgmt  •  CVE Tracking  •  Threat Intel  •  Nuclei
-              XSS Detection  •  Cryptography  •  Network Hardening  •  Pentesting
-
-AI/ML:        LLM Integration  •  Agent Architecture  •  OpenAI API  •  DSPy
-              Scikit-learn  •  TensorFlow  •  PyTorch  •  Pandas
-
-Tools:        Git  •  GitHub Actions  •  VS Code  •  Obsidian  •  tmux  •  i3
+  Currently building security operations at B4RN.
 ```
 
 ---
 
-### Currently
+<div align="center">
+  <h3>📌 Featured Projects</h3>
+</div>
 
-- 🔭 Building the **B4RN Security Platform** — vulnerability management, operational intelligence, and automated triage for an ISP serving 15,000+ rural properties
-- 🌱 Deepening expertise in **Go**, **offensive security**, and **autonomous agent architecture**
-- 🧠 Operating as an **AI-native engineer** — multi-agent workflows, cognitive infrastructure, Hermes
-- 🏗️ Migrating Puppet infrastructure, deploying Cockpit fleet monitoring, hardening 70+ server estate
+<div align="center">
+  <a href="https://github.com/00-Python/FastAPI-Role-and-Permissions">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=FastAPI-Role-and-Permissions&theme=github_dark&show_owner=false&description_lines_count=2" />
+  </a>
+  <a href="https://github.com/00-Python/hn-security-report">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=hn-security-report&theme=github_dark&show_owner=false&description_lines_count=2" />
+  </a>
+  <br>
+  <a href="https://github.com/00-Python/AI-Debug">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=AI-Debug&theme=github_dark&show_owner=false&description_lines_count=2" />
+  </a>
+  <a href="https://github.com/00-Python/Hexagonal-Permutation-Cipher">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=Hexagonal-Permutation-Cipher&theme=github_dark&show_owner=false&description_lines_count=2" />
+  </a>
+  <br>
+  <a href="https://github.com/00-Python/Web-Crawler">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=Web-Crawler&theme=github_dark&show_owner=false&description_lines_count=2" />
+  </a>
+  <a href="https://github.com/00-Python/Stock-Market-Analysis">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=00-Python&repo=Stock-Market-Analysis&theme=github_dark&show_owner=false&description_lines_count=2" />
+  </a>
+</div>
+
+<br>
+
+| 🔒 Security | 🕷️ Scraping & Recon | 🛠️ Tools & Infra |
+|-------------|---------------------|-------------------|
+| [XSSMap](https://github.com/00-Python/xssMap) — XSS detection | [Pirate Bay Scraper](https://github.com/00-Python/Pirate-Bay-Scraper) — Torrent CLI | [Docker + Nginx](https://github.com/00-Python/multi-flask-docker-nginx-deployment) — Multi-app deploy |
+| [Scammerzz](https://github.com/00-Python/Scammerzz) — ScamSearch API tool | [Ryanair Scraper](https://github.com/00-Python/Ryanair-Scraper) — Flight data | [i3 Workspace Manager](https://github.com/00-Python/i3-workspace-manager) — Session management |
+| [Scambaiting Domain Checker](https://github.com/00-Python/Scambaiting-popup-Domain-Crafter-and-Checker) | [PDFDrive API](https://github.com/00-Python/PDFDrive-API-unofficial) — Unofficial book API | [Bash Backup & Encrypt](https://github.com/00-Python/Bash-Backup-and-Encrypt) — SSH backups |
+| [Caesar Cipher](https://github.com/00-Python/Caesar-Cipher) — Classic crypto | [TMDB API Wrapper](https://github.com/00-Python/Tmdb-API-Wrapper) — Movie/TV data | [Trading 212 Bot](https://github.com/00-Python/Trading-212-Automated-Trading-Bot) — Auto trading |
 
 ---
 
-### Career
-
-| When | What |
-|------|------|
-| **2026–present** | Systems & Applications Engineer — **B4RN** (ISP, Lancashire/Cumbria/Yorkshire) |
-| **2024–2026** | Freelance web development & infrastructure consulting |
-| **2014–present** | Shipping open source on GitHub — 69 repos, 10+ years of code |
+<div align="center">
+  <h3>⚡ Stats</h3>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=00-Python&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide=prs&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=00-Python&theme=github_dark&hide_border=true&layout=compact&langs_count=8&hide=html,css,scss" />
+</div>
 
 ---
 
-<p align="center">
-  <sub>Always building. Security-first. Infrastructure as craft.</sub>
-</p>
+<div align="center">
+  <h3>🖥️ Tech Stack</h3>
+
+  <table>
+    <tr>
+      <td align="right"><b>Languages</b></td>
+      <td>Python &nbsp;·&nbsp; Go &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Rust &nbsp;·&nbsp; Bash &nbsp;·&nbsp; C/C++ &nbsp;·&nbsp; SQL</td>
+    </tr>
+    <tr>
+      <td align="right"><b>Backend</b></td>
+      <td>FastAPI &nbsp;·&nbsp; Flask &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; SQLAlchemy &nbsp;·&nbsp; Redis</td>
+    </tr>
+    <tr>
+      <td align="right"><b>Infrastructure</b></td>
+      <td>Docker &nbsp;·&nbsp; Nginx &nbsp;·&nbsp; Linux &nbsp;·&nbsp; Puppet &nbsp;·&nbsp; VMware vSphere &nbsp;·&nbsp; Juniper</td>
+    </tr>
+    <tr>
+      <td align="right"><b>Security</b></td>
+      <td>Vulnerability Management &nbsp;·&nbsp; CVE Tracking &nbsp;·&nbsp; Threat Intel &nbsp;·&nbsp; Nuclei &nbsp;·&nbsp; Network Hardening</td>
+    </tr>
+    <tr>
+      <td align="right"><b>AI / ML</b></td>
+      <td>LLM Integration &nbsp;·&nbsp; Agent Architecture &nbsp;·&nbsp; DSPy &nbsp;·&nbsp; Scikit-learn &nbsp;·&nbsp; PyTorch</td>
+    </tr>
+    <tr>
+      <td align="right"><b>Environment</b></td>
+      <td>Git &nbsp;·&nbsp; GitHub Actions &nbsp;·&nbsp; VS Code &nbsp;·&nbsp; Obsidian &nbsp;·&nbsp; tmux &nbsp;·&nbsp; i3</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <sub><i>systems that work. security that holds. infrastructure as craft.</i></sub>
+</div>
