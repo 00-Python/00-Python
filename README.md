@@ -4,7 +4,6 @@
 
 <a href="https://twitter.com/zerowebster"><img src="https://img.shields.io/badge/@zerowebster-000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://github.com/00-Python"><img src="https://img.shields.io/github/followers/00-Python?style=for-the-badge&logo=github&label=follow&color=181717" /></a>
-<a href="https://github.com/00-Python?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2F00-Python&query=%24.public_repos&style=for-the-badge&logo=github&label=repos&color=181717" /></a>
 
 </div>
 
